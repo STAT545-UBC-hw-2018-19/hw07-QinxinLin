@@ -1,2 +1,5 @@
-# hw07-QinxinLin
-hw07-QinxinLin created by GitHub Classroom
+# Building your own R package
+
+* This is the link to the ![powers](https://github.com/QinxinLin/powers)
+
+
